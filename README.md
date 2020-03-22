@@ -9,4 +9,4 @@ Data sources:
 
 - World Health Organization https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
 - Spanish Ministry of Health https://covid19.isciii.es/
-- Johns Hopkings University https://coronavirus.jhu.edu/map.html
+- Johns Hopkings University https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
