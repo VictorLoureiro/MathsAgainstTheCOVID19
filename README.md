@@ -13,3 +13,4 @@ Data sources:
 - El Mundo | https://www.elmundo.es/ciencia-y-salud/salud/2020/03/20/5e74b922fc6c839d588b45db.html
 - World Health Organization | https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
 - Johns Hopkings University | https://www.arcgis.com/apps/opsdashboard/index.html#/
+- COVID-19 Info Live | https://covid19info.live/spain/
