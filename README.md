@@ -7,6 +7,7 @@ In 1927, W. O. Kermack and A.G. McKendrick created the model SIR based on three 
 
 Data sources:
 
-- World Health Organization https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
-- Spanish Ministry of Health https://covid19.isciii.es/
-- Johns Hopkings University https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+- Spanish Ministry of Health | https://covid19.isciii.es/
+- El País | https://elpais.com/sociedad/2020/03/17/actualidad/1584436648_230452.html?rel=friso-directo
+- World Health Organization | https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+- Johns Hopkings University | https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
