@@ -7,9 +7,9 @@ In 1927, W. O. Kermack and A.G. McKendrick created the model SIR based on three 
 
 Aiming to achieve the results, two well-founded assumptions have been needed to impose: a lethality of 4% like the worst case in Wuhan and a Susceptible Population of the 5% after the quarantine statement. These parameters can be easily modified on the models.
 
-Anyone interested in contributing to adding data and models of new populations is always welcome!
-
 The only objective of this project is to predict the evolution of the coronavirus and the impact of the taken solutions. This way, we will be able to appreciate through mathematics the huge work of the health community.
+
+Anyone interested in contributing to adding data and models of new populations is always welcome!
 
 Data sources.
 
