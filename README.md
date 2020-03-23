@@ -5,6 +5,8 @@ The mathematical modeling of epidemics is the art of using mathematical tools to
 
 In 1927, W. O. Kermack and A.G. McKendrick created the model SIR based on three kinds of populations: Susceptible, Infected and Recovered. In this case, we will use the extension called SIRS due to the fact that a COVID-19 'recovered' person is able to get infected again.
 
+Aiming to achieve the results, two well-founded assumptions have been needed to impose: a lethality of 4% like the worst case in Wuhan and a Susceptible Population of the 5% after the quarantine statement. These parameters can be easily modified on the models.
+
 Data sources:
 
 - Spanish Ministry of Health https://covid19.isciii.es/
