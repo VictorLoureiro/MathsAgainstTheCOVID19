@@ -14,6 +14,7 @@ Anyone interested in contributing to adding data and models of new populations i
 Data sources.
 
 - Spanish Ministry of Health https://covid19.isciii.es/
+- Galician COVID Evolution https://galiciancovid19.info/
 - RTVE https://www.rtve.es/noticias/20200322/mapa-del-coronavirus-espana/2004681.shtml
 - World Health Organization https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
 - El Mundo https://www.elmundo.es/ciencia-y-salud/salud/2020/03/20/5e74b922fc6c839d588b45db.html
