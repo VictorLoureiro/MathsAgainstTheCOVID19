@@ -1,4 +1,4 @@
-# SpanishMathsInCOVID-19
+# Maths Against the COVID-19
 ## Mathematical modeling of COVID-19 in Spain (at the moment)
 
 The mathematical modeling of epidemics is the art of using mathematical tools to explain and predict the behavior of infectious and potentially harmful agents to human populations. In a deterministic model, the disease can infect individuals randomly but the law of the great numbers assures us that the number of infections becomes more predictable as the population size increases. Because of this, deterministic models are used to treat diseases that affect large populations and they are represented by differential equations.
