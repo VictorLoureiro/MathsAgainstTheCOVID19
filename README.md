@@ -13,11 +13,12 @@ Anyone interested in contributing to adding data and models of new populations i
 
 Data sources.
 
+- National Statistic Institute https://www.ine.es/
 - Spanish Ministry of Health https://covid19.isciii.es/
+- COVID-19 Info Live https://covid19info.live/spain/
 - Galician COVID Evolution https://galiciancovid19.info/
 - RTVE https://www.rtve.es/noticias/20200322/mapa-del-coronavirus-espana/2004681.shtml
 - World Health Organization https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
 - El Mundo https://www.elmundo.es/ciencia-y-salud/salud/2020/03/20/5e74b922fc6c839d588b45db.html
 - El País https://elpais.com/sociedad/2020/03/17/actualidad/1584436648_230452.html?rel=friso-directo
-- COVID-19 Info Live https://covid19info.live/spain/
 - Mathematical modeling in edpidemiology https://es.wikipedia.org/wiki/Modelaje_matem%C3%A1tico_de_epidemias
