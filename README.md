@@ -15,7 +15,7 @@ Data sources.
 
 - National Statistic Institute https://www.ine.es/
 - Spanish Ministry of Health https://covid19.isciii.es/
-- World Health Organization https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
+- Galician Health Counseling https://www.sergas.es/
 - COVID-19 Info Live https://covid19info.live/spain/
 - Galician COVID Evolution https://galiciancovid19.info/
 - RTVE https://www.rtve.es/noticias/20200322/mapa-del-coronavirus-espana/2004681.shtml
