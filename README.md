@@ -21,4 +21,5 @@ Data sources.
 - World Health Organization https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports/
 - El Mundo https://www.elmundo.es/ciencia-y-salud/salud/2020/03/20/5e74b922fc6c839d588b45db.html
 - El País https://elpais.com/sociedad/2020/03/17/actualidad/1584436648_230452.html?rel=friso-directo
+- How Germs Spread https://www.youtube.com/watch?v=I5-dI74zxPg&t=379s
 - Mathematical modeling in edpidemiology https://es.wikipedia.org/wiki/Modelaje_matem%C3%A1tico_de_epidemias
