@@ -3,7 +3,7 @@
 
 [Faro de Vigo's interview](https://afondo.farodevigo.es/pontevedra/estudio-coronavirus-825-muertos-galicia.html).
 
-The mathematical modeling of epidemics is the art of using mathematical tools to explain and predict the behavior of infectious and potentially harmful agents to human populations. In a deterministic model, the disease can infect individuals randomly but the law of the great numbers assures us that the number of infections becomes more predictable as the population size increases. Because of this, deterministic models are used to treat diseases that affect large populations and they are represented by differential equations.
+The mathematical modeling of epidemics is the art of using mathematical tools to explain and predict the behavior of infectious and potentially harmful agents to human populations. In a deterministic model, the disease can infect individuals randomly but the [law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) assures us that the number of infections becomes more predictable as the population size increases. Because of this, deterministic models are used to treat diseases that affect large populations and they are represented by differential equations.
 
 In 1927, W. O. Kermack and A.G. McKendrick created the [SIR model](https://es.wikipedia.org/wiki/Modelaje_matem%C3%A1tico_de_epidemias) based on three kinds of populations: Susceptible, Infected and Recovered. In this case, we will use the extension called SIRS due to the fact that a COVID-19 'recovered' person is able to get infected again.
 
