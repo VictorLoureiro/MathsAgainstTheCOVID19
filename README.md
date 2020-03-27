@@ -7,7 +7,7 @@ The mathematical modeling of epidemics is the art of using mathematical tools to
 
 In 1927, W. O. Kermack and A.G. McKendrick created the [SIR model](https://es.wikipedia.org/wiki/Modelaje_matem%C3%A1tico_de_epidemias) based on three kinds of populations: Susceptible, Infected and Recovered. In this case, we will use the extension called SIRS due to the fact that a COVID-19 'recovered' person is able to get infected again.
 
-Aiming to achieve the results, two well-founded assumptions have been needed to impose: a lethality of 4% like the worst case in Wuhan and a susceptible population reduction after the quarantine statement. This reduction has been estimated as a ratio between the interaction before and after the quarantine. These parameters can be easily modified on the models.
+Aiming to achieve the results, two well-founded assumptions have been needed to impose: a lethality of 4% like the worst case in Wuhan and a susceptible population reduction after the quarantine statement related to some [experiments](https://www.youtube.com/watch?v=I5-dI74zxPg&t=379s). This reduction has been estimated as a ratio between the interaction before and after the quarantine. These parameters can be easily modified on the models.
 
 The only objective of this project is to predict the evolution of the coronavirus and the impact of the taken solutions. This way, we will be able to appreciate through mathematics the huge work of the health community.
 
@@ -18,4 +18,3 @@ Data sources.
 - [National Statistic Institute](https://www.ine.es/)
 - [Spanish Ministry of Health](https://covid19.isciii.es/)
 - [Galician Health Counseling](https://www.sergas.es/)
-- How Germs Spread https://www.youtube.com/watch?v=I5-dI74zxPg&t=379s
