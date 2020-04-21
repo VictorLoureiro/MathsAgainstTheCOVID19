@@ -7,9 +7,9 @@
 
 The mathematical modeling of epidemics is the art of using mathematical tools to explain and predict the behavior of infectious and potentially harmful agents to human populations. In a deterministic model, the disease can infect individuals randomly but the [law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) assures us that the number of infections becomes more predictable as the population size increases. Because of this, deterministic models are used to treat diseases that affect large populations and they are represented by differential equations.
 
-In 1927, W. O. Kermack and A.G. McKendrick created the [SIR model](https://es.wikipedia.org/wiki/Modelaje_matem%C3%A1tico_de_epidemias) based on three kinds of populations: Susceptible, Infected and Recovered. In this case, we will use the extension called SIRS due to the fact that a COVID-19 'recovered' person is able to get infected again.
+In 1927, W. O. Kermack and A.G. McKendrick created the [SIR model](https://es.wikipedia.org/wiki/Modelaje_matem%C3%A1tico_de_epidemias) based on three kinds of populations: Susceptible, Infected and Recovered. In this case, we will developn an extension called SLIHURD including Latent, Hospitalized, ICUed and Deceased populations.
 
-Aiming to achieve the results, two well-founded assumptions have been needed to impose: a lethality of 4% like the worst case in Wuhan and a susceptible population reduction after the quarantine statement related to some [experiments](https://www.youtube.com/watch?v=I5-dI74zxPg&t=379s). This reduction has been estimated as a ratio between the interaction before and after the quarantine. These parameters can be easily modified on the models.
+Aiming to achieve the results, a calibration process from the known data has been needed. These parameters can be easily modified on the models.
 
 The only objective of this project is to predict the evolution of the coronavirus and the impact of the taken solutions. This way, we will be able to appreciate through mathematics the huge work of the health community.
 
