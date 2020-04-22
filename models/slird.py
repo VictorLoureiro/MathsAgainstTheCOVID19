@@ -19,7 +19,7 @@ t_arr = np.zeros(n_steps + 1)     # create a storage array for t
 X_arr = np.zeros((5,n_steps+1))   # create a storage array for X=[S,L,I,R,D]^T
 
 S_init = np.linspace(260000,270000,10)	# initial population of S
-L_init = np.linspace(23000,24000,10)	# initial population of L
+L_init = np.linspace(20000,30000,10)	# initial population of L
 I_init = 6904           		  		# initial population of I
 R_init = 517            		  		# initial population of R
 D_init = 277            		  		# initial population of D
@@ -28,7 +28,7 @@ D_init = 277            		  		# initial population of D
 BETA = np.linspace(0.45,0.5,5)			# contagion probability
 GAMMA_L = np.linspace(0.035,0.04,5)	# (1/Duracion)
 GAMMA_I = np.linspace(0.025,0.03,5)	# (1/Duracion)
-MU = np.linspace(0.008,0.009,5)		# lethality
+MU = np.linspace(0.005,0.015,5)		# lethality
 
 # Calibration Process with known data
 I_real = []; R_real = []; D_real = [];
@@ -63,7 +63,7 @@ for Si in S_init:
 						X_arr[1,0] = Li     	  	# add the initial L to the storage array
 						X_arr[2,0] = I_init     	# add the initial I to the storage array
 						X_arr[3,0] = R_init     	# add the initial R to the storage array
-						X_arr[4,0] = R_init     	# add the initial D to the storage array
+						X_arr[4,0] = D_init     	# add the initial D to the storage array
 						t_arr[0] = t_init       	# add the initial t to the storage array
 
 						# Euler's Method for SLIRD Model
