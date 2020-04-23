@@ -5,9 +5,9 @@
 
 [Faro de Vigo's second interview](https://www.farodevigo.es/portada-pontevedra/2020/04/14/recuperacion-llegara-galicia-6-mayo/2275775.html).
 
-The mathematical modeling of epidemics is the art of using mathematical tools to explain and predict the behavior of infectious and potentially harmful agents to human populations. In a deterministic model, the disease can infect individuals randomly but the [law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) assures us that the number of infections becomes more predictable as the population size increases. Because of this, deterministic models are used to treat diseases that affect large populations and they are represented by differential equations.
+The [mathematical modeling of epidemics](https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology) is the art of using mathematical tools to explain and predict the behavior of infectious and potentially harmful agents to human populations. In a deterministic model, the disease can infect individuals randomly but the [law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers) assures us that the number of infections becomes more predictable as the population size increases. Because of this, deterministic models are used to treat diseases that affect large populations and they are represented by differential equations.
 
-In 1927, W. O. Kermack and A.G. McKendrick created the [SIR model](https://es.wikipedia.org/wiki/Modelaje_matem%C3%A1tico_de_epidemias) based on three kinds of populations: Susceptible, Infected and Recovered. In this case, we will develop an extension called SLIHURD including Latent, Hospitalized, ICUed and Deceased populations.
+In 1927, W. O. Kermack and A.G. McKendrick created the [SIR model](https://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-the-differential-equation-model) based on three kinds of populations: Susceptible, Infected and Recovered. In this case, we will develop an extension called SLIHURD including Latent, Hospitalized, ICUed and Deceased populations.
 
 Aiming to achieve the results, a calibration process from the known data has been needed. These parameters can be easily modified on the models.
 
